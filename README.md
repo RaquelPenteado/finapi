@@ -10,7 +10,7 @@ A FinAPI foi criado pela Rocketseat com o intuito de ensinar a tecnologia NodeJS
 ### Screenshots
 
 
-#### Alguns prints mostrando alguns das funcionalidades da aplicação.
+#### Alguns prints mostrando algumas das funcionalidades da aplicação.
 
 
 #### Criação da conta
