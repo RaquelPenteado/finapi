@@ -20,10 +20,6 @@ A FinAPI foi criado pela Rocketseat com o intuito de ensinar a tecnologia NodeJS
 ![deposit](./assets/deposit.jpg)
 
 
-- Solution URL: []()
-- Live Site URL: []()
-
-
 ## Author
 
 - Rocketseat - [https://app.rocketseat.com.br/me/raquel-penteado-02954](https://app.rocketseat.com.br/me/raquel-penteado-02954)
